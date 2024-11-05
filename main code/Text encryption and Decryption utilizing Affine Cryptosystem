@@ -50,3 +50,8 @@ print("Encrypted Text:", encrypted_text)
 # Decrypt the encrypted text
 decrypted_text = affine_decrypt(encrypted_text)
 print("Decrypted Text:", decrypted_text)
+
+output:
+Original Text: SELÇUK ÜNİVERSİTESİ TEKNOLOJİ FAKÜLTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
+Encrypted Text: HNÇFUY AKOENDHOPNHO PNYKÖÇÖŞO SRYAÇPNHO ÜOÇVOHRIRD ĞAGNKİOHÇOCO ÜTÇAĞA
+Decrypted Text: SELÇUK ÜNİVERSİTESİ TEKNOLOJİ FAKÜLTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
